@@ -1,4 +1,3 @@
 # iOS Calculator Clone
 Cloned IOS's calculator in Swift
-
-swift is pretty fun
+Got to borrow a macbook for a couple hours and wanted to try out xcode. swift is pretty fun
