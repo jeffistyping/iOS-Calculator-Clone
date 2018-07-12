@@ -1,4 +1,4 @@
-# IOS-Calculator
+# iOS Calculator Clone
 Cloned IOS's calculator in Swift
 
-swift is fun
+swift is pretty fun
